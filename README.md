@@ -6,3 +6,6 @@
 <li>and then run 'npm install' to install node modules, in the folder where you have cloned the project</li>
 <li>and then run 'npm start' to run the project.</li>
 </ul>
+
+### About
+A real time dashboard built with react and canvasJS witch updates data after every set interval.<br/>
